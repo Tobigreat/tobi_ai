@@ -385,3 +385,5 @@ youtube-transcript-api==0.6.2
 zipp==3.20.2
 #zlib==1.2.13
 zstd==1.5.5.1
+langchain_community
+PyMuDF ==1.21.1
