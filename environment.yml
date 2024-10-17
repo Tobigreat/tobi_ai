@@ -58,6 +58,8 @@ dependencies:
       - quarto==0.1.0 # Make sure to download quarto CLI at https://quarto.org/docs/get-started/
       - sqlalchemy==2.0.29
       - sqlite==3.41.2
+      - langchain_community
+      -  PyMuDF ==1.21.1
      
 
 
